@@ -5,7 +5,7 @@ Este es un proyecto de demostración simple creado en Unity que integra varios a
 ## Demostración Rápida
 
 <p align="center">
-  <img src="resources/video.gif" alt="Demostración de la jugabilidad" width="80%"/>
+  <img src="Assets/resources/video.gif" alt="Demostración de la jugabilidad" width="80%"/>
 </p>
 
 ## Contenido del Proyecto
@@ -22,7 +22,7 @@ Este escenario ha sido construido utilizando los siguientes elementos:
   <b>Vista general del entorno de la ciudad</b>
 </p>
 <p align="center">
-  <img src="resources/calle.png" alt="Vista general del escenario" width="80%"/>
+  <img src="Assets/resources/calle.png" alt="Vista general del escenario" width="80%"/>
 </p>
 
 <br>
@@ -31,7 +31,7 @@ Este escenario ha sido construido utilizando los siguientes elementos:
   <b>Assets utilizados en el proyecto</b>
 </p>
 <p align="center">
-  <img src="resources/assets.png" alt="Assets utilizados en el proyecto" width="80%"/>
+  <img src="Assets/resources/assets.png" alt="Assets utilizados en el proyecto" width="80%"/>
 </p>
 
 ## Configuración y Uso
